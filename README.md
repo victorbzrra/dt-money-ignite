@@ -2,13 +2,13 @@
 React application for the control of personal financial resources.
 
 ## React concepts
-- [x] React Hooks.
-- [x] Context Api.
+- ✅ React Hooks.
+- ✅ Context Api.
 
 ## Libraries Used
-- [x] Axios (for Http Requests).
-- [x] Miragejs (for Api Simulated).
-- [x] Styled Components (CSS in JS).
+- ✅ Axios (for Http Requests).
+- ✅ Miragejs (for Api Simulated).
+- ✅ Styled Components (CSS in JS).
 
 ## Running Application
 - You can preview the page design here: https://victorbzrra.github.io/dt-money-ignite/

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/dt-money-ignite/static/js/main.b876358c.chunk.js",
+    "main.js.map": "/dt-money-ignite/static/js/main.b876358c.chunk.js.map",
+    "runtime-main.js": "/dt-money-ignite/static/js/runtime-main.33c8c3a1.js",
+    "runtime-main.js.map": "/dt-money-ignite/static/js/runtime-main.33c8c3a1.js.map",
+    "static/js/2.e3d5b1b0.chunk.js": "/dt-money-ignite/static/js/2.e3d5b1b0.chunk.js",
+    "static/js/2.e3d5b1b0.chunk.js.map": "/dt-money-ignite/static/js/2.e3d5b1b0.chunk.js.map",
+    "index.html": "/dt-money-ignite/index.html",
+    "static/js/2.e3d5b1b0.chunk.js.LICENSE.txt": "/dt-money-ignite/static/js/2.e3d5b1b0.chunk.js.LICENSE.txt",
+    "static/media/close.f62862c6.svg": "/dt-money-ignite/static/media/close.f62862c6.svg",
+    "static/media/income.d58effe2.svg": "/dt-money-ignite/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/dt-money-ignite/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/dt-money-ignite/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/dt-money-ignite/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c8c3a1.js",
+    "static/js/2.e3d5b1b0.chunk.js",
+    "static/js/main.b876358c.chunk.js"
+  ]
+}
